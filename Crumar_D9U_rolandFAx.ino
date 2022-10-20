@@ -1,12 +1,25 @@
 ////////////////////////////////////////////////////////////////////
-// Crumar Drawbar Controller D9U - 
+// Crumar Drawbar Controller D9U 
+// A unofficial firmware for Crumar D9U for controlling the drawbars 
+// of the Roland FA worktations (FA-06, FA-07, FA-08) tonewheel engine.
+// https://github.com/garubi/D9U-for-FA
+//
 // by Stefano Garuti based on original sketch by Guido Scognamiglio
-//    and other snippets found on the web 
+// and other snippets found on the web 
+//
+// Sends MIDI SySEx values according to Roland FAxx specifications
+//
 // Runs on Atmel ATmega32U4 Arduino Leonardo (with MIDI USB Library)
 // Reads 9 analog inputs from internal ADCs
-// Sends MIDI SySEx values according to Roland FAxx specifications
+//
 // Last update: September 2018
-// 
+//
+// The usual disclaimer: 
+// I'm not involved in any way with Crumar. 
+//
+// This sketch is totally untested and is provided "as is", without 
+// warranty of any kind under the terms of the 
+// MIT license: https://mit-license.org/
 
 ////////////////////////////////////////////////////////////////////
 // This is where you can define the SysEx values for the FA Drawbars
