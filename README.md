@@ -11,4 +11,5 @@ Fast forward to october 2022: a user on The Keyboard Corner forum asked for the 
 I ask you, if you try the sketch, to report issues and feedback here: I'm pretty sure that with a few iteration we can have it working.
 
 The usual disclaimer:
-I'm not involved in any way with Crumar. This sketch is totally untested and is provided "as is", without warranty of any kind.
+I'm not involved in any way with Crumar. This sketch is totally untested and is provided "as is", without warranty of any kind under the terms of the [
+I'm not involved in any way with Crumar. This sketch is totally untested and is provided "as is", without warranty of any kind under the terms of the [MIT license](https://mit-license.org/)
